@@ -1,0 +1,36 @@
+
+form {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-top: 8rem;
+    margin-right: 10rem;
+    
+  
+
+}
+
+input[type=text] {
+    padding: 12px 18px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 10%;
+    width:23rem;
+}
+
+button {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: rgb(247, 97, 122);
+    color: white;
+    cursor: pointer;
+    margin-top: 10%;
+    width:8rem;
+}
